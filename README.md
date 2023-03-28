@@ -4,7 +4,7 @@
 - 🔭 Estou em busca de emprego em Desenvolvimento de Sistemas.
 - 🌱 Estudo Linguagem de Programação c#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycomalves&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Maycomalves=anuraghazra&show_icons=true&theme=dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycomalves&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
