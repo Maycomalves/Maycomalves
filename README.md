@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Michael👋
 
 
-- 🔭 Estou em busca de emprego em Desenvolvimento de Sistemas.
+- 🔭 Estou em busca de emprego em Desenvolvimento de Software.
 - 🌱 Estudo Linguagem de Programação c#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Maycomalves=anuraghazra&show_icons=true&theme=dark)
